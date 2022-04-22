@@ -11,3 +11,8 @@
 타이머의 총 시간은 60분. 
 1분 간격으로된 PeekBar로 원하는 시간에 맞추게되면 바로 타이머가 시작된다.
 타이머 가는 동안에 사운드가 있고 타이머가 끝나게 되면 종료음을 울리게 된다.
+
+###[스크린샷]
+
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/95080196/164736194-a845a3fa-f8d8-40b6-9167-3e38e7599e5c.png">
